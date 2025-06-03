@@ -1,7 +1,6 @@
 # Sales-Trend-Analysis-Using-Aggregations
 -	Objective: To analyze sales performance over time and across products using SQL queries.
--	Dataset Description:
-•	Columns:
+-	Columns:
 o	sale_date: Date of each sale
 o	order_id: Unique ID for each order
 o	product_id: ID of the product sold
